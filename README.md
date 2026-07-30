@@ -1,6 +1,8 @@
+<!--
 <p align="center">
   <img src="images/Banner Diego Suarez 2.png" alt="Diego Suárez - Data Engineer Banner" width="100%">
 </p>
+-->
 
 # Hi there 👋 I'm Diego Suárez
 
